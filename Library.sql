@@ -42,8 +42,8 @@ contact INTEGER UNIQUE
 );
 
 INSERT INTO staff (staffid, name, contact) VALUES
-(1, 'John Doe', 123456789),
-(2, 'Jane Smith', 987654321),
-(3, 'Bob Johnson', 555111222),
-(4, 'Alice Brown', 999888777),
-(5, 'Charlie White', 444333222);
+(1, 'John Doe', 0000000000),
+(2, 'Jane Smith', 12333234),
+(3, 'Bob Johnson', 434432424),
+(4, 'Alice Brown', 6876465),
+(5, 'Charlie White', 4656464);
